@@ -1,0 +1,6 @@
+[submodule "submodules/starlette-example"]
+	path = submodules/starlette-example
+	url = https://github.com/encode/starlette-example.git
+[submodule "submodules/icons"]
+	path = submodules/icons
+	url = https://github.com/twbs/icons.git
